@@ -8,7 +8,7 @@ Buscando uma oportunidade no mercado.
 <br>
  - :blush: Buscando colaborar com projetos Front-End;
  - :star: Conhecimentos em Grid Layout e Flex Box;
- - :computer: Minha Stack: <strong>HTML</strong> , <strong>CSS</strong> , <strong>Javascript</strong> , <strong>Bootstrap</strong>.
+ - :computer: Minha Stack: <strong>HTML</strong> , <strong>CSS</strong> , <strong>Javascript</strong> , <strong>Bootstrap</strong>, <strong>Java</strong>, <strong> Node.js </strong>, <strong>Angular</strong>
 <br>
  
 ### Sobre mim:
