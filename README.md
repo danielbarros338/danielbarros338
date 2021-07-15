@@ -7,7 +7,7 @@ Buscando uma oportunidade no mercado.
 <br>
  - :blush: Buscando colaborar com projetos Front-End;
  - :star: Sólidos conhecimentos em MVC, POO, API's REST;
- - :computer: Minha Stack: <strong>HTML</strong> , <strong>CSS</strong> , <strong>Javascript</strong> , <strong>Bootstrap</strong>, <strong>Java</strong>, <strong> Node.js </strong>, <strong>Angular</strong>
+ - :computer: Minha Stack: <strong>HTML</strong> , <strong>CSS</strong> , <strong>Javascript</strong> , <strong>Bootstrap</strong>, <strong>MySQL</strong>, <strong> Node.js </strong>, <strong>Angular</strong>
 <br>
  
 ### Sobre mim:
