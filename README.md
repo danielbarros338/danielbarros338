@@ -16,5 +16,5 @@ tudo muito bem documentado, com qualidade e pontualidade!<br>
 <br>
  :green_circle: Disponível para colaborar com projetos no Front-End e Back-End; <br>
  :green_circle: Sólidos conhecimentos em MVC, POO, API's REST, UML; <br>
- :green_circle: Stack: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong>, <strong>VueJS</strong>, <strong>Quasar</strong>, <strong>Nuxt</strong>, <strong>Bootstrap</strong>, <strong>Vuetify</strong>, <strong>MySQL</strong>, <strong>SQL Server</strong>, <strong> Node.js </strong>
+ :green_circle: Stack: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong>, <strong>TypeScript</strong>, <strong>VueJS</strong>, <strong>Quasar</strong>, <strong>Nuxt</strong>, <strong>Bootstrap</strong>, <strong>Vuetify</strong>, <strong>MySQL</strong>, <strong>SQL Server</strong>, <strong> Node.js </strong>
 <br> 
